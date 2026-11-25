@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Ola, me chamo Wandeberg. 
 Estou no Primeiro período do curso de Ánalise e desenvolvimento de sistema.
-Meu objetivo é ser desenvolvedor Full Stack e Mobile.
+
 
 
 ## 🔗 Links
